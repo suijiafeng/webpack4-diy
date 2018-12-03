@@ -1,0 +1,21 @@
+[{
+        "html": "index",
+        "title": "首页",
+        "chunks": ["index", "vendor"]
+    },
+    {
+        "html": "page1",
+        "title": "内页1",
+        "chunks": ["index", "vendor"]
+    },
+    {
+        "html": "page2",
+        "title": "内页2",
+        "chunks": ["index"]
+    },
+    {
+        "html": "page3",
+        "title": "内页3",
+        "chunks": ["vendor"]
+    }
+]

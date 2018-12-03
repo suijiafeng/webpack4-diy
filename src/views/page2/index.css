@@ -1,0 +1,7 @@
+body{
+    background-color: goldenrod;
+    transform: rotateX(34deg);
+    transition: all .4s;
+    display: flex;
+    justify-content: flex-start;
+}
